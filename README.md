@@ -10,11 +10,25 @@ Self-help books fail not because the knowledge is bad, but because implementatio
 
 Rewire provides those protocols.
 
-## Quick Start
+## Install
+
+### Claude Code (Recommended)
+
+Install as a plugin — one command, all skills available instantly:
+
+```bash
+claude plugin add rajkaria/rewire
+```
+
+Once installed, you get:
+- **All coaching skills** auto-available (type `/coach` to start)
+- **`/checkin`** — quick progress check-in on active coaching
+- **`/new-skill`** — scaffold a new skill from the template
+
+### Other Platforms
 
 1. **Pick a skill** from the `skills/` directory
 2. **Load it** into your AI agent:
-   - **Claude Code:** Copy to `.claude/skills/`
    - **Claude.ai:** Upload `SKILL.md` to a Project
    - **Cursor / Codex / Gemini CLI:** Load `SKILL.md` as context
    - **Any LLM:** Paste `SKILL.md` into the system prompt

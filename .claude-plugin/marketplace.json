@@ -1,0 +1,45 @@
+{
+  "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
+  "name": "rewire",
+  "description": "Open-source AI coaching skills that turn books into practice — structured protocols from ancient wisdom, modern psychology, and applied life domains",
+  "owner": {
+    "name": "Raj Karia",
+    "email": "raj@rewire.dev"
+  },
+  "plugins": [
+    {
+      "name": "rewire",
+      "source": "./",
+      "description": "12 AI coaching skills spanning ancient wisdom (Bhagavad Gita, Stoicism, Taoism, Buddhism), modern psychology (CBT, habit science, communication, meaning), and applied life domains (money, focus, mindset, relationships). Each skill is a full coaching protocol — not a summary, but an interactive coach that asks questions, assigns experiments, tracks progress, and holds you accountable.",
+      "version": "1.0.0",
+      "author": {
+        "name": "Raj Karia",
+        "url": "https://github.com/rajkaria"
+      },
+      "homepage": "https://github.com/rajkaria/rewire",
+      "repository": "https://github.com/rajkaria/rewire",
+      "license": "MIT",
+      "keywords": [
+        "coaching",
+        "self-help",
+        "habits",
+        "mindfulness",
+        "personal-development",
+        "behavior-change",
+        "ancient-wisdom",
+        "psychology"
+      ],
+      "category": "lifestyle",
+      "tags": [
+        "coaching",
+        "habits",
+        "mindfulness",
+        "psychology",
+        "ancient-wisdom",
+        "personal-growth",
+        "behavior-change"
+      ],
+      "strict": false
+    }
+  ]
+}

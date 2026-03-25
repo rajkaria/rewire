@@ -1,9 +1,14 @@
 ---
 # YAML FRONTMATTER — Update every field below.
 # This metadata helps agents and registries discover and load your skill.
+#
+# CRITICAL: The 'description' field is what triggers this skill in Claude Code.
+# Start with "Use when the user wants..." so the agent knows when to activate it.
+# Example: "Use when the user wants coaching on habits, routines, or behavior change."
+#
 name: skill-name              # Lowercase, hyphenated (e.g., atomic-habits, karma-yoga)
 title: "Your Skill Title"     # Human-readable (e.g., "Atomic Habits Coaching")
-description: "One-line description of what this skill coaches"
+description: "Use when the user wants coaching on [topic]. Coaches through [methodology] — [key techniques]. Helps users [outcome]."
 source: "Book/text title and author"
 domain: "Primary coaching domain (e.g., habit formation, emotional resilience)"
 tags: [tag1, tag2, tag3]      # 3-5 tags for discoverability

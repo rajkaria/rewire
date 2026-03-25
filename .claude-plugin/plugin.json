@@ -1,0 +1,23 @@
+{
+  "name": "rewire",
+  "version": "1.0.0",
+  "description": "AI coaching skills that turn books into practice — structured protocols for habit formation, emotional resilience, mindfulness, and personal growth",
+  "author": {
+    "name": "Raj Karia",
+    "url": "https://github.com/rajkaria"
+  },
+  "homepage": "https://github.com/rajkaria/rewire",
+  "repository": "https://github.com/rajkaria/rewire",
+  "license": "MIT",
+  "keywords": [
+    "coaching",
+    "self-help",
+    "habits",
+    "mindfulness",
+    "personal-development",
+    "behavior-change",
+    "ancient-wisdom",
+    "psychology",
+    "skills"
+  ]
+}
