@@ -146,6 +146,17 @@ gemini extensions install github:rajkaria/rewire
 2. Paste it into the system prompt or custom instructions
 3. Start a conversation — the LLM follows the coaching protocol
 
+### One File, All Skills
+
+Want to give any AI access to all 21 skills in a single file? Use [`skills.md`](skills.md) — a lightweight routing layer (~2K tokens) that knows every skill, when to activate it, and how to hand off between them.
+
+- **Claude.ai Projects** — upload `skills.md` to Project Knowledge
+- **ChatGPT** — paste `skills.md` into Custom Instructions
+- **Cursor / Windsurf** — add `skills.md` to project context
+- **Any LLM** — include `skills.md` in your system prompt
+
+The agent will triage what the user needs and coach accordingly. No need to pick individual skills upfront.
+
 ### Verify Installation
 
 After installing, say: *"What coaching skills do you have?"* — the agent should list available Rewire skills.
