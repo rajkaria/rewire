@@ -9,6 +9,15 @@ version: "1.0"
 depth: flagship
 lessons: 8
 exercises: 7
+composability:
+  pairs_well_with:
+    - act-values
+    - ikigai
+    - seneca-letters
+  handoff_triggers:
+    - "I know what to do but I don't care enough" → ikigai
+    - "I keep avoiding what matters" → act-values
+    - "I'm wasting time on the wrong things" → seneca-letters
 ---
 
 # Atomic Habits Coaching
