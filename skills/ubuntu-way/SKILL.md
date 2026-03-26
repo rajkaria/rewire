@@ -1,7 +1,7 @@
 ---
 name: ubuntu-way
+description: "Use when the user wants coaching on community, interdependence, relational identity, or the Ubuntu philosophy of 'I am because we are'. Triggers on: Ubuntu, community, belonging, interdependence, relationships, we, togetherness."
 title: "The Ubuntu Way"
-description: "Coaching in relational identity, interdependence, and the art of belonging — rooted in ubuntu philosophy"
 source: Ubuntu philosophy (Southern African)
 domain: Community, interdependence, "I am because we are", relational identity
 tags: [ubuntu, community, belonging, interdependence, relational-self, reciprocity, empathy]

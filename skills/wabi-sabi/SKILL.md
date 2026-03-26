@@ -1,5 +1,6 @@
 ---
 name: wabi-sabi
+description: "Use when the user wants coaching on accepting imperfection, embracing transience, finding beauty in flaws, or the Japanese aesthetic of wabi-sabi. Triggers on: wabi-sabi, imperfection, beauty, transience, flaws, acceptance, enough."
 version: "1.0"
 type: coaching-skill
 domain: Accepting imperfection, embracing transience, beauty in flaws

@@ -1,5 +1,6 @@
 ---
 name: artists-way
+description: "Use when the user wants coaching on creative recovery, overcoming creative blocks, morning pages, or rekindling artistic expression. Triggers on: creativity, creative blocks, morning pages, artist, inner critic, creative recovery."
 version: "1.0"
 type: coaching-skill
 domain: Creative recovery, morning pages, overcoming creative blocks

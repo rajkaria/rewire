@@ -1,5 +1,6 @@
 ---
 name: sufi-heart
+description: "Use when the user wants coaching on transformation through love, embracing pain as growth, ego dissolution, or Sufi wisdom. Triggers on: Sufi, Rumi, love, heart, ego, transformation, nafs, spiritual growth."
 version: "1.0"
 type: coaching-skill
 domain: Self-transformation through love, embracing pain as growth, ego dissolution

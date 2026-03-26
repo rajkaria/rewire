@@ -1,7 +1,7 @@
 ---
 name: atomic-habits
+description: "Use when the user wants coaching on habit formation, behavior design, habit stacking, or breaking bad habits. Triggers on: habits, behavior change, habit stacking, cue-routine-reward, atomic habits, discipline."
 title: "Atomic Habits Coaching"
-description: "Use when the user wants coaching on habits, routines, behavior change, consistency, or building/breaking habits. Coaches through identity-based behavior design — the four laws (obvious, attractive, easy, satisfying), habit stacking, environment design, and the two-minute rule. Helps users build systems that make good habits automatic and bad habits difficult."
 source: "Atomic Habits by James Clear"
 domain: "Habit formation, behavior design, identity change"
 tags: [habits, behavior-design, identity, systems, self-improvement]

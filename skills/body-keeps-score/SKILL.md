@@ -1,5 +1,6 @@
 ---
 name: body-keeps-score
+description: "Use when the user wants coaching on somatic awareness, trauma-informed self-care, mind-body connection, or nervous system regulation. Triggers on: body awareness, trauma, somatic, nervous system, grounding, window of tolerance."
 version: "1.0"
 type: coaching-skill
 domain: Trauma awareness, somatic experience, mind-body connection

@@ -1,5 +1,6 @@
 ---
 name: dbt-skills
+description: "Use when the user wants coaching on emotional regulation, distress tolerance, interpersonal effectiveness, or dialectical thinking. Triggers on: DBT, emotions, distress, regulation, interpersonal skills, mindfulness, emotional overwhelm."
 version: "1.0"
 type: coaching-skill
 domain: Distress tolerance, emotion regulation, interpersonal effectiveness, mindfulness

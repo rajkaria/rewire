@@ -1,5 +1,6 @@
 ---
 name: ikigai
+description: "Use when the user wants coaching on finding their life purpose, aligning passion with vocation, or discovering their reason for being. Triggers on: ikigai, purpose, passion, life purpose, calling, meaning, career direction."
 version: "1.0"
 type: coaching-skill
 domain: Life purpose, reason for being, passion-skill-need-reward alignment

@@ -1,5 +1,6 @@
 ---
 name: epictetus-manual
+description: "Use when the user wants coaching on the dichotomy of control, Stoic resilience, or responding to adversity with equanimity. Triggers on: Epictetus, Stoic, control, adversity, resilience, acceptance, dichotomy of control."
 version: "1.0"
 type: coaching-skill
 domain: Dichotomy of control, freedom through acceptance, responding to adversity

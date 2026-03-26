@@ -1,5 +1,6 @@
 ---
 name: inner-parts
+description: "Use when the user wants coaching on understanding inner parts, working with their inner critic, self-leadership, or Internal Family Systems. Triggers on: inner parts, IFS, inner critic, self-leadership, parts work, internal conflict."
 version: "1.0"
 type: coaching-skill
 domain: Understanding inner "parts", self-leadership, inner critic work

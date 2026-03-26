@@ -1,5 +1,6 @@
 ---
 name: character-strengths
+description: "Use when the user wants coaching on discovering and using their signature strengths, strengths-based living, or positive psychology. Triggers on: strengths, character strengths, VIA, positive psychology, signature strengths."
 version: "1.0"
 type: coaching-skill
 domain: Identifying signature strengths, strengths-based living

@@ -1,7 +1,7 @@
 ---
 name: seneca-letters
+description: "Use when the user wants coaching on practical Stoicism, time mastery, anger management, or grief through Seneca's teachings. Triggers on: Seneca, Stoic, time, anger, grief, death, practical philosophy, premeditatio."
 title: "Seneca's Letters Coaching"
-description: "Use when the user wants coaching on time management, anger, grief, resilience, or practical Stoic philosophy. Coaches through Seneca's applied Stoicism — the conviction that life is long enough if you stop squandering it, that anger is a form of temporary insanity you can learn to interrupt, that grief is best honored by living fully, and that mentally rehearsing adversity (premeditatio malorum) builds genuine gratitude and unshakable calm. Helps users reclaim their time, master their emotional reactions, and prepare for hardship before it arrives."
 source: "Letters from a Stoic (Seneca)"
 domain: "Time mastery, anger management, grief, practical Stoic ethics"
 tags: [stoicism, time, anger, grief, resilience, premeditatio, seneca, philosophy]

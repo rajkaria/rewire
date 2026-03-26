@@ -1,7 +1,7 @@
 {
   "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
   "name": "rewire",
-  "description": "Open-source AI coaching skills that turn books into practice — structured protocols from ancient wisdom, modern psychology, and applied life domains",
+  "description": "21 AI coaching skills that turn wisdom traditions into interactive practice — Stoicism, ACT, DBT, IFS, Zen, Sufism, Ubuntu, and more. Each skill is a full coaching protocol an AI agent can load.",
   "owner": {
     "name": "Raj Karia",
     "email": "raj@rewire.dev"
@@ -10,7 +10,7 @@
     {
       "name": "rewire",
       "source": "./",
-      "description": "12 AI coaching skills spanning ancient wisdom (Bhagavad Gita, Stoicism, Taoism, Buddhism), modern psychology (CBT, habit science, communication, meaning), and applied life domains (money, focus, mindset, relationships). Each skill is a full coaching protocol — not a summary, but an interactive coach that asks questions, assigns experiments, tracks progress, and holds you accountable.",
+      "description": "21 AI coaching skills spanning ancient wisdom (Stoicism, Confucianism, Zen, Sufism, Vedanta, Epicureanism), modern psychology (ACT, DBT, IFS, Positive Psychology, Existential Therapy), creative recovery, and cultural philosophies (Ubuntu, Ikigai, Wabi-Sabi). Each skill is a full interactive coaching protocol with lessons, exercises, check-ins, and milestones.",
       "version": "1.0.0",
       "author": {
         "name": "Raj Karia",
@@ -27,7 +27,14 @@
         "personal-development",
         "behavior-change",
         "ancient-wisdom",
-        "psychology"
+        "psychology",
+        "stoicism",
+        "zen",
+        "dbt",
+        "act",
+        "ifs",
+        "creativity",
+        "purpose"
       ],
       "category": "lifestyle",
       "tags": [
@@ -37,7 +44,13 @@
         "psychology",
         "ancient-wisdom",
         "personal-growth",
-        "behavior-change"
+        "behavior-change",
+        "stoicism",
+        "zen",
+        "therapy",
+        "creativity",
+        "purpose",
+        "relationships"
       ],
       "strict": false
     }

@@ -1,5 +1,6 @@
 ---
 name: act-values
+description: "Use when the user wants coaching on psychological flexibility, values-based living, accepting difficult emotions, or defusion from unhelpful thoughts. Triggers on: ACT, acceptance, values, committed action, mindfulness, psychological flexibility, defusion."
 version: "1.0"
 type: coaching-skill
 domain: Psychological flexibility, values-driven action, defusion, acceptance

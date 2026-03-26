@@ -1,7 +1,7 @@
 ---
 name: existential-courage
+description: "Use when the user wants coaching on confronting mortality, finding meaning, radical freedom, or existential anxiety. Triggers on: existential, mortality, death, freedom, meaning, isolation, anxiety, Yalom."
 title: "Existential Courage Coaching"
-description: "Use when the user is grappling with mortality, freedom, isolation, meaninglessness, or the anxiety that arises from confronting life's ultimate concerns. Coaches through existential psychotherapy's core insight: that four inescapable realities — death, freedom, isolation, and meaninglessness — confront every human being, and that the courage to face them honestly is what transforms anxiety into vitality. Helps users stop avoiding these truths and start living more fully because of them, not despite them."
 source: "Existential Psychotherapy (Irvin Yalom) / Paul Tillich / Viktor Frankl / Rollo May"
 domain: "Confronting mortality, freedom, isolation, meaninglessness"
 tags: [existentialism, mortality, freedom, isolation, meaning, courage, anxiety, yalom, tillich, authenticity]

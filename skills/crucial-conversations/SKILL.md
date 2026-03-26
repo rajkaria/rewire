@@ -1,7 +1,7 @@
 ---
 name: crucial-conversations
+description: "Use when the user wants coaching on handling high-stakes conversations, speaking up in difficult situations, or managing emotional dialogues. Triggers on: difficult conversations, confrontation, speaking up, feedback, conflict, dialogue."
 title: "Crucial Conversations"
-description: "Coach users to handle high-stakes, emotionally charged conversations with skill and courage"
 source: "Crucial Conversations (Patterson, Grenny, McMillan, Switzler)"
 domain: "High-stakes dialogue, speaking truth, managing emotional conversations"
 tags: [communication, conflict, dialogue, emotional-intelligence, relationships, leadership]

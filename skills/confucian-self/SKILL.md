@@ -1,7 +1,7 @@
 ---
 name: confucian-self
+description: "Use when the user wants coaching on self-cultivation, relationships, benevolence, or becoming a person of character through the Confucian tradition. Triggers on: Confucius, self-cultivation, ren, benevolence, relationships, junzi, virtue."
 title: "The Confucian Self"
-description: "Coaching in self-cultivation (xiu shen), relational virtue, and the daily practice of becoming a person of character (junzi) — rooted in the Analects of Confucius"
 source: Analects (Confucius)
 domain: Self-cultivation, relationships, benevolence (ren), the junzi ideal
 tags: [confucius, junzi, ren, li, xiao, de, zhongyong, self-cultivation, virtue, relationships, character]

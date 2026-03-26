@@ -1,7 +1,7 @@
 ---
 name: ecclesiastes-wisdom
+description: "Use when the user wants coaching on accepting impermanence, finding meaning under uncertainty, or embracing life's paradoxes through Kohelet's wisdom. Triggers on: Ecclesiastes, impermanence, meaning, seasons, uncertainty, vanity, hevel."
 title: "Ecclesiastes Wisdom Coaching"
-description: "Use when the user is struggling with impermanence, chasing things that don't satisfy, needing to accept uncertainty, or wanting to find joy in ordinary life despite not having all the answers. Coaches through the wisdom of Kohelet — the radical honesty that everything is hevel (vapor), that control is an illusion, that wisdom has limits, and that the deepest response to an uncertain world is to enjoy the bread on your table, the work of your hands, and the person beside you."
 source: "Ecclesiastes (Kohelet)"
 domain: "Impermanence, meaning under uncertainty, accepting paradox"
 tags: [impermanence, meaning, paradox, acceptance, wisdom, ecclesiastes, kohelet, hevel, philosophy, hebrew-wisdom]

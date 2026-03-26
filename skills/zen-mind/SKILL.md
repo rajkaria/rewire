@@ -1,5 +1,6 @@
 ---
 name: zen-mind
+description: "Use when the user wants coaching on beginner's mind, zazen meditation, presence, or Zen Buddhist practice. Triggers on: Zen, beginner's mind, zazen, meditation, presence, non-attachment, shoshin."
 version: "1.0"
 type: coaching-skill
 domain: Beginner's mind, non-attachment to expertise, presence, direct experience

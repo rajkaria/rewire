@@ -1,5 +1,6 @@
 ---
 name: yoga-sutras
+description: "Use when the user wants coaching on mind mastery, concentration, the eight-limbed path, or Patanjali's framework for mental discipline. Triggers on: yoga, mind, meditation, concentration, kleshas, eight limbs, Patanjali, sutras."
 version: "1.0"
 type: coaching-skill
 domain: Mind mastery, 8-limbed path, mental afflictions (kleshas), concentration

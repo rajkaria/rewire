@@ -1,5 +1,6 @@
 ---
 name: upanishad-self
+description: "Use when the user wants coaching on self-inquiry, the question 'Who am I?', consciousness, or Vedantic self-knowledge. Triggers on: Upanishad, self-inquiry, Atman, Brahman, who am I, consciousness, Vedanta, neti neti."
 version: "1.0"
 type: coaching-skill
 domain: Self-inquiry, "Who am I?", Atman-Brahman, the chariot metaphor

@@ -1,5 +1,6 @@
 ---
 name: epicurean-joy
+description: "Use when the user wants coaching on simple pleasures, friendship, eliminating unnecessary desires, or Epicurean philosophy. Triggers on: Epicurus, pleasure, simplicity, friendship, desire, anxiety, contentment."
 version: "1.0"
 type: coaching-skill
 domain: Simple pleasure, friendship, eliminating unnecessary desires, tetrapharmakos
