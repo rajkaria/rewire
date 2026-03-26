@@ -64,7 +64,6 @@ Format follows [Keep a Changelog](https://keepachangelog.com/en/1.1.0/). Version
 - `skills.md` — Single-file behavioral intelligence layer for any LLM
 - `template/` — Self-documenting skill template for contributors
 - `scripts/new-skill.sh` — Helper script for creating new skills
-- `BUILD_LOG.md` — Inventory of all 21 skills with completion status
 - Multi-platform install instructions (Claude Code, Cursor, Codex, Gemini, Claude.ai, ChatGPT)
 
 ## [0.1.0] — 2026-03-27
