@@ -107,36 +107,76 @@ Each tradition is encoded as a full coaching protocol with lessons, exercises, a
 
 ## Install
 
-### Claude Code
+### One command (works everywhere)
+
+```bash
+npx skills add rajkaria/rewire
+```
+
+This works with **Claude Code, Cursor, Codex, Gemini CLI, Copilot CLI, Windsurf, Aider** — any agent that supports the [open skills standard](https://github.com/vercel-labs/skills).
+
+To preview what you're installing first:
+```bash
+npx skills add rajkaria/rewire --list
+```
+
+### Platform-specific alternatives
+
+<details>
+<summary><b>Claude Code</b></summary>
+
 ```bash
 claude install github:rajkaria/rewire
 ```
-Done. All 21 skills load silently. Your Claude is now subtly wiser in every conversation.
+</details>
 
-### Cursor
+<details>
+<summary><b>Cursor</b></summary>
+
 ```
 /add-plugin github:rajkaria/rewire
 ```
+</details>
 
-### Codex (OpenAI)
+<details>
+<summary><b>Codex (OpenAI)</b></summary>
+
 ```bash
 curl -s https://raw.githubusercontent.com/rajkaria/rewire/main/skills.md > .codex/SKILL.md
 ```
+</details>
 
-### Gemini CLI
+<details>
+<summary><b>Gemini CLI</b></summary>
+
 ```bash
 gemini extensions install github:rajkaria/rewire
 ```
+</details>
 
-### Claude.ai (Projects)
+<details>
+<summary><b>GitHub Copilot CLI</b></summary>
+
+```bash
+npx skills add rajkaria/rewire
+```
+</details>
+
+<details>
+<summary><b>Claude.ai (Projects)</b></summary>
+
 1. Create a new Project
 2. Upload [`skills.md`](skills.md) to Project Knowledge
 3. Every conversation in that project now has the silent guide active
+</details>
 
-### ChatGPT / Any LLM
+<details>
+<summary><b>ChatGPT / Any LLM</b></summary>
+
 1. Copy the contents of [`skills.md`](skills.md)
 2. Paste into Custom Instructions or system prompt
 3. That's it — the behavioral layer is running
+</details>
 
 ### One File vs Full Install
 

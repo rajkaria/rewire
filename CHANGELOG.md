@@ -6,6 +6,19 @@ Format follows [Keep a Changelog](https://keepachangelog.com/en/1.1.0/). Version
 
 ---
 
+## [2.1.0] — 2026-03-27
+
+### Added
+- `npx skills add rajkaria/rewire` — universal install via [Vercel's open skills CLI](https://github.com/vercel-labs/skills), works across Claude Code, Cursor, Codex, Gemini CLI, Copilot CLI, Windsurf, Aider
+- GitHub Copilot CLI install instructions
+- Collapsible platform-specific install sections in README
+
+### Removed
+- `REWIRE_PROJECT_KNOWLEDGE.md` — internal build prompt, not public-facing
+- `REWIRE_SKILL_CATALOG.md` — internal 100+ skill brainstorm list
+- `VISION.md` — absorbed into README
+- `skills/BUILD_LOG.md` — build completion tracker
+
 ## [2.0.0] — 2026-03-27
 
 ### Changed
